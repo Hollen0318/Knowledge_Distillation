@@ -15,3 +15,8 @@ Knowledge_Distillation_Code file contains methods that allow for the training of
 Adversarial Training uses PGD, found in attacks.py
 
 Vanilla_Distillation file shows the code we used to generate our Vanilla Distillation Results
+
+## References: ##
+Distilling the Knowledge in a Neural Network. (2015). Student and Teacher from `Distilling the Knowledge in a Neural Network.´ https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network
+
+Pytorch Vision.(2015). ResNet-18 and ResNet-50 from `Deep Residual Learning for Image Recognition.´ https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py
