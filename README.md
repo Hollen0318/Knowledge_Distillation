@@ -1,5 +1,4 @@
 # Knowledge Distillation for ResNet Architectures #
-## Code for Approaches to Knowledge Distillation ##
 
 Knowledge_Distillation_Code file contains methods that allow for the training of:
 * ResNet18 
