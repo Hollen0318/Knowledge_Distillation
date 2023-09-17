@@ -16,6 +16,8 @@ Adversarial Training uses PGD, found in attacks.py
 
 Vanilla_Distillation file shows the code we used to generate our Vanilla Distillation Results
 
+See [Paper](https://github.com/Hollen0318/Knowledge_Distillation/blob/81f5b9830872194e79c0b366cf5d038e3605fabb/Knowledge_Distillation.pdf) and [Poster](https://github.com/Hollen0318/Knowledge_Distillation/blob/81f5b9830872194e79c0b366cf5d038e3605fabb/Poster_Knowledge_Distillation.pdf)
+
 ## References: ##
 Distilling the Knowledge in a Neural Network. (2015). Student and Teacher from `Distilling the Knowledge in a Neural Network.´ https://github.com/shriramsb/Distilling-the-Knowledge-in-a-Neural-Network
 
